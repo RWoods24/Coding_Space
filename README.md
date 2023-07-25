@@ -1,8 +1,8 @@
 # Coding_Space
-This is my coding area where I get to learn anything related to coding or programming
+<p><strong><u>This is my coding area where I get to learn anything related to coding or programming</u></strong></p>
 
 
-👋 Hello, I'm Mukiibi Robert!
+👋<p><strong><u> Hello, I'm Mukiibi Robert! </u></strong></p>
 
 💻 As a passionate software engineer, I love turning ideas into reality through code. I enjoy crafting clean, efficient, and scalable solutions to complex problems. My journey in the world of programming has exposed me to various technologies and frameworks, and I'm always eager to learn more.
 
